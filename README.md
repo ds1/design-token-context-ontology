@@ -1,4 +1,4 @@
-# Design Token Context Ontology
+# Design Token Context Model
 ### Draft 0.1 January 20, 2026
 
 Exploration of a robust specification for multi-dimensional design token resolution with full Figma Variables support.
@@ -22,7 +22,7 @@ Current systems treat context as flat modes (`light`/`dark`, `desktop`/`mobile`)
 
 ## What's Included
 
-### [Whitepaper](design-token-context-ontology-whitepaper.md)
+### [Whitepaper](https://github.com/ds1/design-token-context-model/wiki/design-token-context-ontology-whitepaper)
 
 The complete specification defining:
 
@@ -55,6 +55,16 @@ tokens/
 │   └── brand.json       # Primary / Secondary / Partner identities
 └── manifest.json        # Collection metadata & GitFig mappings
 ```
+
+### Additional Documentation
+
+Theoretical explorations and supporting material:
+
+- [Context as Coordinate System Thesis](https://github.com/ds1/design-token-context-model/wiki/context-as-coordinate-system-thesis) — Foundational argument that tokens are policies mapping context coordinates to values
+- [Context Coordinate Model Exploration](https://github.com/ds1/design-token-context-model/wiki/context-coordinate-model-exploration) — Application of embodied AI principles to design tokens
+- [Coordinate Model and Token Tiers](https://github.com/ds1/design-token-context-model/wiki/coordinate-model-and-token-tiers) — How the coordinate model fits within the standard 3-tier token taxonomy
+- [Design Tokens for Embodied AI](https://github.com/ds1/design-token-context-model/wiki/design_tokens_for_embodied_ai) — Theoretical bridge between UI design tokens and AI/robotics representations
+- [Design Systems: Single Source of Truth](https://github.com/ds1/design-token-context-model/wiki/Design-Systems_-Single-Source-of-Truth) — Analysis of SSOT architecture and data normalization principles
 
 ## Collections Overview
 
@@ -198,4 +208,4 @@ MIT
 
 ## Contributing
 
-Issues and pull requests welcome. See the whitepaper for the complete specification that implementations should follow.
+Issues and pull requests welcome. See the [whitepaper](https://github.com/ds1/design-token-context-model/wiki/design-token-context-ontology-whitepaper) for the complete specification that implementations should follow.
