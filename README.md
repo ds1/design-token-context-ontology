@@ -1,6 +1,7 @@
 # Design Token Context Ontology
+### Draft 0.1 January 20, 2026
 
-A comprehensive specification for multi-dimensional design token resolution with full Figma Variables support.
+Exploration of a robust specification for multi-dimensional design token resolution with full Figma Variables support.
 
 ## The Problem
 
